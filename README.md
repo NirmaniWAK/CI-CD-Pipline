@@ -32,9 +32,12 @@ Time Finder is a Micro SaaS web app that shows the current time and date in any 
 	•	GitHub Actions run on each push
 	•	Installs dependencies → runs tests → builds app → deploys to Netlify
 
--Screenshot of my simple app
+-Screenshots of my simple app
 
 ![WhatsApp Image 2025-08-25 at 20 42 10_73d5344b](https://github.com/user-attachments/assets/c2dfcf99-bc69-4540-afaf-17e8d9f4c374)]
+
+![WhatsApp Image 2025-08-25 at 20 58 01_4ec99fae](https://github.com/user-attachments/assets/92d91ef6-40e5-41d0-8e4b-6fb2b073b799)
+
 
 
  Author: W.A.K. Nirmani (ITBIN-2211-0106)
