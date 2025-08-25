@@ -1,5 +1,6 @@
 # CI-CD-Pipline
 A CI/CD Pipline project.
+
 Time Finder App
 
 Time Finder is a Micro SaaS web app that shows the current time and date in any city using a timezone search. It is lightweight, user-friendly, and ideal for students and remote workers.
@@ -10,6 +11,7 @@ Time Finder is a Micro SaaS web app that shows the current time and date in any 
 
 
  Features
+ 
 	•	Search time by city/timezone
 	•	View current date and time
 	•	Responsive design
@@ -17,6 +19,7 @@ Time Finder is a Micro SaaS web app that shows the current time and date in any 
 
 
  Tech Stack
+ 
 	•	Frontend: React.js
 	•	Backend: Node.js
 	•	API: WorldTimeAPI
@@ -25,6 +28,7 @@ Time Finder is a Micro SaaS web app that shows the current time and date in any 
 
 
  CI/CD
+ 
 	•	GitHub Actions run on each push
 	•	Installs dependencies → runs tests → builds app → deploys to Netlify
 
