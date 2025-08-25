@@ -29,4 +29,5 @@ Time Finder is a Micro SaaS web app that shows the current time and date in any 
 
 
 
-👩‍💻 Author: W.A.K. Nirmani (ITBIN-2211-0106)
+
+ Author: W.A.K. Nirmani (ITBIN-2211-0106)
