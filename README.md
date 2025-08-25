@@ -5,6 +5,7 @@ Time Finder App
 Time Finder is a Micro SaaS web app that shows the current time and date in any city using a timezone search. It is lightweight, user-friendly, and ideal for students and remote workers.
 
  Live App: Time Finder
+ 
  App Link: https://67ea3a8f3a221918d48e7609--roaring-moxie-2a74ef.netlify.app/
 
 
